@@ -24,7 +24,7 @@ This exercise involves creating a QR code card component using HTML and CSS. The
 
 ### Links
 
-- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/BManrriqueCastro/CODIGO_QR))
+- Solution URL: [Solution](https://github.com/BManrriqueCastro/CODIGO_QR)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
