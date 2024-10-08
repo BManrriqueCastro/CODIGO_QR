@@ -57,8 +57,6 @@ This project helped me strengthen my layout and CSS skills while focusing on bes
 
 - GitHub - [BManriqueCastro]([https://www.your-site.com](https://github.com/BManrriqueCastro))
 - Frontend Mentor - [BAMC202]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/BManrriqueCastro))
-<<<<<<< HEAD
 - Linkedin - [Brayan_Manrique]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/bamc202/))
-=======
-- Linkedin - Brayan_Manrique]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/bamc202/))
->>>>>>> d156dbfdfb1e83d664de0bfa5db928e6a0f05a0d
+
+
