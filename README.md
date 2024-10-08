@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -26,7 +24,7 @@ This exercise involves creating a QR code card component using HTML and CSS. The
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/BManrriqueCastro/CODIGO_QR))
+- Solution URL: [Solution]([https://your-solution-url.com](https://github.com/BManrriqueCastro/CODIGO_QR))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
