@@ -25,7 +25,7 @@ This exercise involves creating a QR code card component using HTML and CSS. The
 ### Links
 
 - Solution URL: [Solution](https://github.com/BManrriqueCastro/CODIGO_QR)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Pagina](https://bmanrriquecastro.github.io/CODIGO_QR/)
 
 ## My process
 
@@ -53,8 +53,8 @@ This project helped me strengthen my layout and CSS skills while focusing on bes
 
 ## Author
 
-- GitHub - [BManriqueCastro]([https://www.your-site.com](https://github.com/BManrriqueCastro))
-- Frontend Mentor - [BAMC202]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/BManrriqueCastro))
-- Linkedin - [Brayan_Manrique]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/bamc202/))
+- GitHub - [BManriqueCastro](https://github.com/BManrriqueCastro)
+- Frontend Mentor - [BAMC202](https://www.frontendmentor.io/profile/BManrriqueCastro)
+- Linkedin - [Brayan_Manrique](https://www.linkedin.com/in/bamc202/)
 
 
